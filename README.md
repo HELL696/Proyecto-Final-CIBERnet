@@ -22,8 +22,6 @@ Este proyecto fue desarrollado para la materia de **Taller de Programación 1**.
 
 ## Arquitectura y Tecnologías
 
-* **Lenguajes & Frameworks:** Python (FastAPI, Uvicorn), JavaScript (React.js).
-* **Estilos & UI:** Bulma CSS, Lucide-React.
 * **Simulación de Red:** GNS3, Cisco IOS.
 * **Protocolos & Seguridad:** IPv4 Subnetting, ICMP, ACLs extendidas.
 
