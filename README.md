@@ -31,3 +31,5 @@ Este proyecto fue desarrollado para la materia de **Taller de Programación 1**.
 * Bernardo (Desarrollo Frontend & Redes)
 * Laura (Infraestructura de Red)
 * Willy (Desarrollo Backend & Redes)
+## Video
+*https://youtu.be/MgLsadzEYkY
