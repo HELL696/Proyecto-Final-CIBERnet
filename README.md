@@ -4,14 +4,14 @@ Este proyecto fue desarrollado para la materia de **Taller de Programación 1**.
 
 ---
 
-## 🚀 Características del Proyecto
+##  Características del Proyecto
 
-### 💻 Software (Full-Stack)
+### Software (Full-Stack)
 * **Backend:** Desarrollado con **FastAPI** (Python), aprovechando su alto rendimiento asíncrono y validación nativa de datos mediante **Pydantic**.
 * **Frontend:** Construido en **React**, implementando componentes dinámicos, consumo de APIs mediante **Axios** y un diseño limpio y responsivo con **Bulma CSS**.
 * **Módulo Principal:** Gestión de **Insumos Adquiridos** que permite registrar y auditar de forma exacta el Nombre, Precio Unitario y Cantidad de los productos en stock, eliminando el error manual en la administración del restaurante.
 
-### 🌐 Infraestructura de Red (Networking)
+### Infraestructura de Red
 * **Core:** Emulado en **GNS3** utilizando un Router Cisco 3725 (IOS Real).
 * **Segmentación de Red:** Implementación de subredeo lógico optimizado:
   * Subred `/25` destinada al Pool de Clientes y usuarios del cibernet (`192.168.100.0/25`).
@@ -20,7 +20,7 @@ Este proyecto fue desarrollado para la materia de **Taller de Programación 1**.
 
 ---
 
-## 🛠️ Arquitectura y Tecnologías
+## Arquitectura y Tecnologías
 
 * **Lenguajes & Frameworks:** Python (FastAPI, Uvicorn), JavaScript (React.js).
 * **Estilos & UI:** Bulma CSS, Lucide-React.
@@ -29,6 +29,7 @@ Este proyecto fue desarrollado para la materia de **Taller de Programación 1**.
 
 ---
 
-## 👥 Autores
+## Autores
 * Bernardo (Desarrollo Frontend & Redes)
+* Laura (Infraestructura de Red)
 * Willy (Desarrollo Backend & Redes)
