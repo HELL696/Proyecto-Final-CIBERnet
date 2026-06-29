@@ -33,3 +33,5 @@ Este proyecto fue desarrollado para la materia de **Taller de Programación 1**.
 * Willy (Desarrollo Backend & Redes)
 ## Video
 *https://youtu.be/MgLsadzEYkY
+## Documento
+https://github.com/HELL696/Proyecto-Final-CIBERnet/blob/main/Red%20estructurada.pdf
